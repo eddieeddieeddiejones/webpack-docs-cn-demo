@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "lodash": "^4.17.4"
+  }
+}

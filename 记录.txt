@@ -1,0 +1,57 @@
+### 研究了哪些内容
+- 中文教程
+  https://doc.webpack-china.org/guides/getting-started
+- 英文教程
+  https://webpack.js.org/guides/getting-started/
+- 中文文档
+  https://doc.webpack-china.org/concepts
+  这个是讲了webapck的概念，站的高度更高，但是没有具体的例子
+
+### 研究技巧
+在00-test文件夹下，尝试，尝试成功后，命名备份
+
+### 进度记录
+预计要使用6小时
+实际用时11个小时
+- 17.12.15
+  资源加载，图片加载。todo：研究下面的
+- 17.12.28
+  1小时，搜索我要看什么，具体地往下试，往下写。一次没看完没关系，但是这次看到哪里了要作记录，方便下次看这方面内容可以立即开始
+  1小时，往下看了
+  1小时，在看开发部分
+  1小时，模块热替换、Tree Shaking，todo：
+    生产环境构建
+    代码分离
+    懒加载
+    缓存
+    创建library
+    shimming
+    使用环境变量
+    构建性能，稍微看一下
+    开发-vagrant，稍微瞄一眼
+    集成，稍微瞄一眼
+  1小时，生产环境构建，todo：接着做 
+  1小时，代码分离
+  1小时，懒加载
+  1小时，懒加载，todo：
+  缓存，https://doc.webpack-china.org/guides/caching/
+- 17.12.29
+  今天计划用3小时
+  1小时，webpack缓存，todo：创建一个library库
+  1小时，webpack创建一个library
+  1小时，下面的看完了。todo：没有动手去写的下面有些内容没有去写，有空的时候可以再次试一下
+
+
+### 没有动手去写的
+- 加载字体
+- 管理输出下面的清理/dist文件夹，这个看起来没有问题
+- 管理输出下面的清理/<Mainfest></Mainfest>
+- 开发/使用 webpack-dev-server，这个看起来没有问题
+- 模块热更新，这部分我没有尝试，了解，但是没有尝试
+- Tree Shaking，这个看懂了，或许不值得亲自动手写一遍
+- 代码分离/bundle分析，这个看起来挺简单的，需要的时候去试
+- Shimming，这部分尝试了，不太成功，这个不太紧要
+
+### 常用的命令
+npm install --save-dev whatwg-fetch
+ --registry=https://registry.npm.taobao.org
